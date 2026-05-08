@@ -1,8 +1,8 @@
 function Home() {
     return (
         <>
-            <h1>This is a home page</h1>
+            Folder Structure Exploring
         </>
     )
 }
-export default Home;
+export default Home
